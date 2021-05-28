@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Staring site for myself.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+May blog about learnings from my DBA job or other things I come across.
